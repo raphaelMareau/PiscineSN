@@ -1,0 +1,115 @@
+
+h1 {
+    border-radius: 10px;
+    position:fixe;
+    text-align : center;
+    color:#778899;
+    background: rgb(244,82,99);
+    background: linear-gradient(90deg, rgba(244,82,99,1) 0%, rgba(255,255,255,1) 50%, rgba(92,214,203,1) 100%);
+    background-size: 100%;
+	}
+
+ul li a{
+    color:#778899;
+    text-decoration:none;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+ul li1 a {
+    color:#333333;
+    text-decoration:none;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+    cursor: pointer;
+}
+
+
+body {
+    background: rgb(192,233,233);
+    background: radial-gradient(circle, rgba(192,233,233,1) 0%, rgba(12,229,225,1) 100%);
+
+}
+
+
+ h1 i   {
+    cursor: pointer;
+    position: absolute;
+    left:0.45%;
+    top:2.75%;
+    }
+i{cursor: pointer;}
+h1 i2 {
+    cursor: pointer;
+    position: absolute;
+    right:0.45%;
+    top:3%;    
+}
+
+#box{
+	display: flex;
+	justify-content: space-between;
+}
+.part1 {
+    margin-left:1.5%;
+    padding:8em;
+	color:#e9cfcc;
+	border-radius: 10px;	background:url(https://cdn.lowgif.com/small/883e72de1308e5d1-iphone-pool-pinterest-animation-gifs-and-graphics.gif);
+    background-size:cover;
+    overflow: hidden;
+	text-align:center;
+	width: 10%;
+    height: 10%;
+	border: 1px solid;
+}
+.part2 {
+    padding:8em;
+	border-radius: 10px;
+	color:#e9cfcc;	background:url(https://cdn.lowgif.com/small/883e72de1308e5d1-iphone-pool-pinterest-animation-gifs-and-graphics.gif);
+    background-size:cover;
+    overflow: hidden;
+	text-align:center;
+	width: 10%;
+    height: 10%;
+	border: 1px solid;
+}
+.part3 {
+    margin-right:1.5%;
+    padding:8em;
+	border-radius: 10px;
+	color:#e9cfcc;	background:url(https://cdn.lowgif.com/small/883e72de1308e5d1-iphone-pool-pinterest-animation-gifs-and-graphics.gif);
+     background-size:cover;
+  overflow: hidden;
+	text-align:center;
+	width: 10%;
+	height:10%;
+	border: 1px solid;
+
+}
+
+
+#main {	
+  
+}
+img {
+	width: 200px;
+	height: 150px;
+}
+
+#footer {
+	background-color:#aea0ad ;
+}
+a:hover
+{
+color:aqua;
+}
+ a1:hover {
+  color:#e9cfcc;
+}
+t1:hover {
+  color:#e9cfcc;
+}
+/* GIF un autre gif orange rouge jaune 
+https://cdn.dribbble.com/users/623359/screenshots/4547435/05-kirp-motion-dribbble.gif*/

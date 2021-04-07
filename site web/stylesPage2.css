@@ -1,0 +1,60 @@
+h1 {
+ text-align : center;
+ color:#778899;
+	}
+body {
+    background: rgb(192,233,233);
+    background: radial-gradient(circle, rgba(192,233,233,1) 0%, rgba(12,229,225,1) 100%);
+	  }	
+ul li a{
+    position: relative;
+    color:#778899;
+    text-decoration:none;
+	align-items: center;
+	justify-content: center;
+    cursor: pointer;
+    padding: 2% 3%;
+    background-color: #5CD6CB; 
+    border: 1px solid #333333;
+    border-style:inset;
+}
+a{
+    top:20%;
+}
+	   .admin{
+ 	position:absolute;
+	border-radius:2%;
+	color:#e9cfcc;
+	background-color:#FFF;
+    overflow: hidden;
+	text-align:center;
+	margin-top:-16.45%;
+	width: 32%;
+	height:35%;
+	top: 62.7%;
+	border: 1px solid;
+	  margin-left:32.5%;
+	  }
+	  .styled {
+	margin-left:42.5%;
+	margin-top:25%;
+	padding:0 5%;
+	position:absolute;
+    border: 1px solid;
+    line-height: 200%;
+    text-align: center;
+    color:#faffff ;
+    background-color: #0C2C84;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.styled:hover {
+    background-color:#41B6C4;
+  color:#000519;
+}
+	  
